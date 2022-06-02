@@ -18,3 +18,8 @@
 ## Idea 🥰
 
 [https://uidesigndaily.com/](https://uidesigndaily.com/posts/sketch-birthdays-list-card-widget-day-1042)
+
+![](./src/idea.jpg)
+![](./src/idea02.jpg);
+
+
